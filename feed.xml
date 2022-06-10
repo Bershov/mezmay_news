@@ -1,57 +1,220 @@
-<?xml version="1.0" encoding="utf-8" ?>
 <rss version="2.0">
-	<channel>
-		<title>Noticias ahora</title>
-		<link>https://www.europapress.es</link>
-		<description>Noticias de actualidad</description>
-		<language>es-ES</language>
-		<item>
-			<guid>1</guid>
-			<title>Justin Sun Moves 100,000,000 USDT To Accumulate BTC and TRX</title>
-			<description><![CDATA[Über den Smartbroker...]]></description>
-			<category domain="tradingview:symbol">CIEA</category>
-			<link>link</link>
-			<pubDate>Tue, 07 Jun 2022 12:29:00 +0000</pubDate>
-		</item>
-                <item>
-			<guid>2</guid>
-			<title>title</title>
-			<description><![CDATA[Über den Smartbroker...]]></description>
-			<category domain="tradingview:symbol">CIEA</category>
-			<link>link</link>
-			<pubDate>Tue, 07 Jun 2022 01:21:00 +0000</pubDate>
-		</item>
-                <item>
-			<guid>1</guid>
-			<title>title</title>
-			<description><![CDATA[Über den Smartbroker...]]></description>
-			<category domain="tradingview:symbol">CIEA</category>
-			<link>link</link>
-			<pubDate>Tue, 07 Jun 2022 10:21:00 +0000</pubDate>
-		</item>
-                <item>
-			<guid>3</guid>
-			<title>Top 10 Cryptos Lose -50% Since January, Except TRX, Gaining +5%</title>
-			<description><![CDATA[Über den Smartbroker...]]></description>
-			<category domain="tradingview:symbol">CIEA</category>
-			<link>link</link>
-			<pubDate>Tue, 07 Jun 2022 12:27:00 +0000</pubDate>
-		</item>
-                <item>
-			<guid>2</guid>
-			<title>Kusama-backed DEX Mangata X to Launch Bootstrapping on June 8</title>
-			<description><![CDATA[Über den Smartbroker...]]></description>
-			<category domain="tradingview:symbol">CIEA</category>
-			<link>link</link>
-			<pubDate>Tue, 07 Jun 2022 12:28:00 +0000</pubDate>
-		</item>
-                <item>
-			<guid>3</guid>
-			<title>title</title>
-			<description><![CDATA[Über den Smartbroker...]]></description>
-			<category domain="tradingview:symbol">CIEA</category>
-			<link>link</link>
-			<pubDate>Tue, 07 Jun 2022 12:27:00 +0000</pubDate>
-		</item>
-	</channel>
+<channel>
+<title>Economia e Mercati - Proiezioni di Borsa</title>
+<atom:link href="https://www.proiezionidiborsa.it/category/economia-e-mercati/feed/" rel="self" type="application/rss+xml"/>
+<link>https://www.proiezionidiborsa.it</link>
+<description/>
+<lastBuildDate>Fri, 10 Jun 2022 14:17:53 +0000</lastBuildDate>
+<language>it-IT</language>
+<sy:updatePeriod> hourly </sy:updatePeriod>
+<sy:updateFrequency> 1 </sy:updateFrequency>
+<generator>https://wordpress.org/?v=5.9.3</generator>
+<image>
+<url>
+https://www.proiezionidiborsa.it/wp-content/uploads/2020/11/cropped-pdb-fav-2020-32x32.png
+</url>
+<title>Economia e Mercati - Proiezioni di Borsa</title>
+<link>https://www.proiezionidiborsa.it</link>
+<width>32</width>
+<height>32</height>
+</image>
+<item>
+<title>
+Sullo sfondo di un’Europa tutta in rosso non promette bene nemmeno Wall Street dopo la pubblicazione del dato sull’inflazione statunitense
+</title>
+<link>
+https://www.proiezionidiborsa.it/sullo-sfondo-di-uneuropa-tutta-in-rosso-non-promette-bene-nemmeno-wall-street-dopo-la-pubblicazione-del-dato-sullinflazione-statunitense/
+</link>
+<dc:creator>Rossana Prezioso</dc:creator>
+<pubDate>Fri, 10 Jun 2022 14:17:53 +0000</pubDate>
+<category>Economia e Mercati</category>
+<category>inflazione</category>
+<guid isPermaLink="false">https://www.proiezionidiborsa.it/?p=305155</guid>
+<description>
+L’inflazione USA non lascia spazio a speranze di una possibile diminuzione. Numeri alla mano si è arrivati, a maggio, all’8,6% contro previsioni che parlavano di un +8,2% sul dato annuale....
+</description>
+<description>
+<p align="left">L’inflazione USA non lascia spazio a speranze di una possibile diminuzione. Numeri alla mano si è arrivati, a maggio, all’8,6% contro previsioni che parlavano di un +8,2% sul dato annuale. Si tratta del dato più alto da 40 anni a questa parte. Il che equivale ad una conferma, seppur implicita, di un cambio di rotta, probabilmente repentino, da parte della FED sul lato dei tassi di interesse. Non più tardi di ieri, inoltre, la BCE ha lanciato chiari segnali di una volontà precisa, e per alcuni versi anche aggressiva, di rialzare i tassi. Già da luglio. Inoltre da alcune dichiarazioni rilasciate da rappresentati della BCE si intravede la volontà, non unanime, di portare il rialzo dai 25 punti annunciati a 50.</p> <h2 align="left">Sullo sfondo di un’Europa tutta in rosso non promette bene nemmeno Wall Street dopo la pubblicazione del dato sull’inflazione statunitense</h2> <p align="left">Insomma, un mix di fattori che, seppur previsti anche se non con questo carico, hanno fatto crollare i mercati oggi. In realtà i primi scricchiolii si erano avvertiti ieri dopo la conferenza della Lagarde ma oggi il dato macro più atteso, quello dei prezzi al consumo, <a href="https://www.proiezionidiborsa.it/il-rialzo-di-breve-termine-e-in-pericolo-e-oggi-e-un-momento-decisivo-per-wall-street/">ha decisamente incrementato la volontà degli operatori di vendere</a>. E così è stato. Alle 15.40 circa il Ftse Mib arrivava a perdere il 4,6% <a href="https://it.tradingview.com/chart/?symbol=TVC%3AFTMIB" target="_blank" rel="noopener">scendendo</a> sotto quota 23.000 punti.</p> <p align="left">A fare da zavorra anche il settore bancario a causa di un aumento della forbice rappresentata dallo spread. Sullo sfondo di un’Europa tutta in rosso ci sono difficoltà anche per Wall Street che, dopo la pubblicazione dell’inflazione a stelle e strisce, deve registrare indici in caduta libera. Un esempio arriva dai 500 punti persi dal Dow dopo la lettura del dato. Parallelamente il rendimento del titolo di Stato statunitense a 2 anni arriva a sfiorare il 2,9%. Ma non è solo questo il fattore che sta affossando i mercati. Purtroppo a peggiorare le cose ci si mette anche Pechino. La Cina, infatti, dopo un primo tentativo di riaperture sarà costretta a chiudere nuovamente per una rinnovata allerta Covid sia a Shanghai che a Pechino.</p> <p><strong>Approfondimento</strong><br /> <a href="https://www.proiezionidiborsa.it/category/il-punto-sui-merc">Il punto sui mercati</a></p>
+</description>
+</item>
+<item>
+<title>
+Tutti guardano al rialzo dei tassi da parte della Banca centrale europea e Lagarde conferma le attese
+</title>
+<link>
+https://www.proiezionidiborsa.it/tutti-guardano-al-rialzo-dei-tassi-da-parte-della-banca-centrale-europea-e-lagarde-conferma-le-attese/
+</link>
+<dc:creator>Rossana Prezioso</dc:creator>
+<pubDate>Thu, 09 Jun 2022 13:15:20 +0000</pubDate>
+<category>Economia e Mercati</category>
+<category>ftse mib</category>
+<guid isPermaLink="false">https://www.proiezionidiborsa.it/?p=304819</guid>
+<description>
+Sembrava essere ormai scontato il richiamo, anche solo riferito al prossimo futuro, per il primo rialzo dei tassi. E la Lagarde ha deciso di procedere per quella strada. Nella conferenza...
+</description>
+<description>
+<p align="left">Sembrava essere ormai scontato il richiamo, anche solo riferito al prossimo futuro, per il primo rialzo dei tassi. E la Lagarde ha deciso di procedere per quella strada. Nella conferenza stampa di oggi, infatti, il numero uno della BCE ha confermato le attese. In altre parole: a luglio ci sarà il primo rialzo di 25 punti base sui tassi di interesse. Il secondo arriverà già a settembre. Parallelamente, poi, si avrà anche la fine degli acquisti di titoli sui mercati.</p> <p align="left">Tutti guardano al rialzo dei tassi ma al momento la domanda chiave rimane sempre la stessa, ovvero capire quanto alto sarà, nei prossimi mesi, il livello di aggressività di una strategia che, per forza di cose, deve muoversi su un margine d’azione estremamente sottile. Da un lato, come detto in altre occasioni, la necessità di zavorrare i prezzi in aumento, dall’altra l’altrettanto importante necessità di evitare una recessione proprio in virtù del rialzo delle materie prime. Anche alimentari.</p> <p align="left">Considerando l’attuale situazione è impossibile negare che l’inflazione continua a correre e il petrolio anche. Perciò tutto fa pensare che questa cavalcata possa continuare per qualche tempo.</p> <h2 align="left">Tutti guardano al rialzo dei tassi da parte della Banca centrale europea e Lagarde conferma le attese</h2> <p align="left">Per l’agenzia S&amp;P, e non solo, questo quadro potrebbe rappresentare un’interessante occasione per il settore bancario tricolore. Questo perché, in linea di massima, gli istituti di credito italiani hanno ancora una struttura tendenzialmente vocata al credito. Il primo impatto lo si registra sull’andamento, controcorrente, del settore bancario che, a Piazza Affari, viaggia positivo.</p> <p align="left">Ma sembra essere una notizia che, per quanto gradita, non smuove l’andamento di una mattinata che, sui mercati, si è consumata al ribasso. Ecco allora spiegato quel -1,9% <a href="https://it.tradingview.com/chart/?symbol=TVC%3AFTMIB" target="_blank" rel="noopener">visto</a> sul Ftse Mib intorno alle 15 circa.</p> <p align="left">In tutto questo, poi, bisogna sottolineare che <a href="https://www.proiezionidiborsa.it/a-wall-street-il-trend-di-breve-e-sempre-rialzista-ecco-i-livelli-da-non-rompere-al-ribasso/">allo stato attuale delle cose</a> i mercati temono anche altri fattori. I tagli sulle stime di crescita arrivati nelle scorse ore da OCSE e dalla Banca Mondiale creano nervosismo tra gli operatori. A questo si aggiunga anche l’ultimo salto registrato sulle quotazioni del gas.</p> <p align="left"><strong>Approfondimento</strong><br /> <a href="https://www.proiezionidiborsa.it/category/il-punto-sui-mercati/">Il punto sui mercati</a></p>
+</description>
+</item>
+<item>
+<title>
+La Cina riapre e allontana le paure dei giorni scorsi anche solo per una seduta
+</title>
+<link>
+https://www.proiezionidiborsa.it/la-cina-riapre-e-allontana-le-paure-dei-giorni-scorsi-anche-solo-per-una-seduta/
+</link>
+<dc:creator>Rossana Prezioso</dc:creator>
+<pubDate>Mon, 06 Jun 2022 15:15:39 +0000</pubDate>
+<category>Economia e Mercati</category>
+<category>Wall Street</category>
+<guid isPermaLink="false">https://www.proiezionidiborsa.it/?p=303915</guid>
+<description>
+I mercati hanno iniziato questa nuova settimana con una serie di rialzi dettati per lo più da una Cina relativamente più ottimista. Sullo sfondo le riaperture che si registrano all’interno...
+</description>
+<description>
+<p align="left">I mercati hanno iniziato questa nuova settimana con una serie di rialzi dettati per lo più da una Cina relativamente più ottimista. Sullo sfondo le riaperture che si registrano all’interno delle varie megalopoli e delle città della potenza economica, a conferma di un alleggerimento delle politiche anti Covid particolarmente stringenti. Le stesse che hanno fatto serpeggiare un forte malcontento anche tra la popolazione cinese. Da qui a decisione di riportare, gradualmente, un senso di normalità all’interno di un provato tessuto sociale.</p> <p align="left">Quindi la Cina riapre e allontana le incertezze e gli spettri nati già da tempo. In particolare con la diffusione di un virus che ha letteralmente disegnato i profili economici e sociali di intere Nazioni. Solo successivamente si creato sui mercati quel mix di elementi esogeni che sta facendo temere il peggio sia ai vertici di JP Morgan che a quelli di Goldman Sachs. In entrambi i casi, infatti, si parla di previsioni economiche estremamente difficili per i prossimi mesi. Partendo da questo quadro è facile intuire come la riapertura della Cina verso la normalizzazione possa interpretarsi come un segnale di ottimismo. Soprattutto in considerazione dell’atteggiamento della <a href="https://www.federalreserve.gov/" target="_blank" rel="noopener">FED</a> che per alcuni analisti potrebbe rivelarsi più aggressivo del previsto. Tutto dipenderà, infine, dal dato sull&#8217;inflazione statunitense <a href="https://www.proiezionidiborsa.it/occhio-ai-dati-su-pil-e-occupazione-della-nuova-ottava-e-che-arriveranno-prima-della-decisione-sui-tassi-del-9-giugno/">che verrà reso noto alla fine della settimana.</a></p> <h2 align="left">La Cina riapre e allontana le paure dei giorni scorsi anche solo per una seduta</h2> <p align="left">Tutto questo ha offerto nuova benzina per un generale rialzo sui mercati. Una prima prova la sia ha direttamente dal Ftse Mib che intorno alle 14.30 arrivava a segnare +1,43%. A dare una spinta ulteriore è stato il settore bancario. Infatti gli istituti di credito sono stati chiamati in causa vista la prossima riunione della Banca centrale statunitense. Dall’altra parte dell’oceano, Wall Street conferma il trend positivo. Da sottolineare, però, il ritorno del caso Twitter. Infatti Elon Musk, che da tempo si è dimostrato interessato ad acquistare il social network, potrebbe ripensarci. Alla base dei vari dubbi che si stanno presentando ci sarebbe soprattutto il no dei vertici alla domanda di accesso ad alcuni dati aziendali. Dati che, secondo la versione di Musk, sarebbero utili per capire la mole dei profili falsi.</p> <p><strong>Approfondimento</strong><br /> <a href="https://www.proiezionidiborsa.it/category/il-punto-sui-mercati/">Il punto sui mercati</a></p>
+</description>
+</item>
+<item>
+<title>
+Occhio ai dati su PIL e occupazione della nuova ottava e che arriveranno prima della decisione sui tassi del 9 giugno 
+</title>
+<link>
+https://www.proiezionidiborsa.it/occhio-ai-dati-su-pil-e-occupazione-della-nuova-ottava-e-che-arriveranno-prima-della-decisione-sui-tassi-del-9-giugno/
+</link>
+<dc:creator>Stefano Vozza</dc:creator>
+<pubDate>Sun, 05 Jun 2022 14:01:30 +0000</pubDate>
+<category>Economia e Mercati</category>
+<category>In Evidenza</category>
+<category>Borsa</category>
+<category>market movers</category>
+<guid isPermaLink="false">https://www.proiezionidiborsa.it/?p=303632</guid>
+<description>
+Le prime sedute di settimana prossima potrebbero essere decisive per il futuro del nostro indice principale. Tuttavia, anche i market movers in calendario tra mercoledì e giovedì non saranno da...
+</description>
+<description>
+<p>Le prime sedute di settimana prossima potrebbero essere decisive per il futuro del nostro indice principale. Tuttavia, anche i market movers in calendario tra mercoledì e giovedì non saranno da meno. Prima dell’intervento della BCE di giovedì, avremo i dati aggiornati sullo stato dell’economia delle principali economie mondiali. Sintetizziamoli brevemente. Dunque, occhio ai dati su PIL e occupazione della nuova ottava e alle decisioni della Banca Centrale Europea.</p> <h2>L’avvio di settimana</h2> <p>Per lunedì si segnala l’indice dei direttori degli acquisti del settore manifatturiero di maggio sia in Cina che ad Hong Kong. In Europa al mattino avremo le aste obbligazionarie in Francia (scadenze a 3, 6 e 12 mesi) e, nel pomeriggio, negli States (scadenze a 3 e 6 mesi).</p> <h2>Gli appuntamenti di martedì 7 giugno</h2> <p>Tra i dati chiave di martedì troviamo quello delle 8.00 in Germania (ordini alle fabbriche, aprile) e in Regno Unito (indice Halifax dei prezzi delle case, maggio). Poi alle 9.00 arriverà il dato sulla produzione industriale spagnola (aprile), alle 9.30 l’indice PMI sul settore edile IHS Markit tedesco (maggio).</p> <p>Un’ora dopo Londra diffonderà l’indice PMI composito di maggio e l’indice dei direttori degli acquisti del settore servizi (maggio). Infine sempre allo stesso orario Bruxelles diffonderà l’indice Sentix della fiducia degli investitori (giugno). Alle 14.30 spiccano i dati USA su import, export e saldo della bilancia commerciale di aprile.</p> <h2>I market movers di metà ottava</h2> <p>Nel cuore della notte Tokyo diffonderà i tutti i dati aggiornati sul PIL del 1° trimestre (domanda, consumi, spese pro capite, etc).</p> <p>In Europa si partirà alle 8.00 con l’indice Halifax dei prezzi delle case a Londra e il dato sulla produzione tedesca di aprile. Da Parigi (H 8.45) ci saranno i dati sull’import, export, il saldo della bilancia commerciale e le riserve di asset totali francesi. Alle 10.00 Roma diffonderà il dato (mensile e annuale, aprile) sulle vendite al dettaglio.</p> <p>Alle 10.30 arriverà da Londra l’atteso indice dei direttori degli acquisti del settore costruzioni, mentre alle 11.00 l’attenzione sarà tutta per i dati UE. Arriveranno infatti i dati sull’occupazione e i dati sul PIL dell’Eurozona (aggiornamenti al 1° trimestre 2022).</p> <h2>Occhio ai dati su PIL e occupazione della nuova ottava e che arriveranno prima della decisione sui tassi del 9 giugno</h2> <p>Giovedì 9 giugno sarà il giorno della BCE. Alle 13.45, infatti, si conosceranno le decisioni sul tasso sui depositi e quella sul tasso d’interesse. Tuttavia, secondo molti analisti finanziari il primo rialzo dei tassi dovrebbe avvenire a luglio. Staremo a vedere quali decisioni saranno assunte e comunicate al mercato.</p> <h2>Venerdì 10 giugno</h2> <p>I dati cinesi sul carovita (indice <a href="https://it.wikipedia.org/wiki/Indice_dei_prezzi_al_consumo" target="_blank" rel="noopener">IPC</a> e IPP) arriveranno alle 3.30. Sempre in Asia (in Cina e Giappone, per la precisione) si segnala l’arrivo dell’indice Thomson Reuteurs IPSOS di giugno. In Europa saranno di scena alle 9.00 i dati sull’inflazione in Spagna (indici IPP, IPC e IAPC di maggio) e alle 10.00 i dati sulla produzione italiana (aprile). Negli USA occhio ai dati diffusi alle 14.30: indice dei prezzi al consumo, indice IPC annuale e mensile e non destagionalizzato (maggio), il dato sui redditi reali.</p> <p><strong>Approfondimento</strong></p> <p><a href="https://www.proiezionidiborsa.it/il-rialzo-dei-mercati-azionari-continuera-o-inizieranno-nuove-vendite/">Il rialzo dei mercati azionari continuerà o inizieranno nuove vendite?</a></p>
+</description>
+</item>
+<item>
+<title>
+Una abiura non da poco, considerando il ruolo di prim’ordine svolto e che svolge la Yellen
+</title>
+<link>
+https://www.proiezionidiborsa.it/una-abiura-non-da-poco-considerando-il-ruolo-di-primordine-svolto-e-che-svolge-la-yellen/
+</link>
+<dc:creator>Emanuele Canegrati</dc:creator>
+<pubDate>Sat, 04 Jun 2022 08:37:39 +0000</pubDate>
+<category>Economia e Mercati</category>
+<category>In Evidenza</category>
+<category>inflazione</category>
+<guid isPermaLink="false">https://www.proiezionidiborsa.it/?p=303362</guid>
+<description>
+La verità, sull&#8217;episodio inflazionistico globale che stiamo vivendo da due anni a questa parte, sta finalmente cominciando ad emergere. Dopo il clamoroso &#8220;outing&#8221; effettuato dagli economisti della Banca Centrale Europea,...
+</description>
+<description>
+<p>La verità, sull&#8217;episodio inflazionistico globale che stiamo vivendo da due anni a questa parte, sta finalmente cominciando ad emergere. Dopo il clamoroso &#8220;outing&#8221; effettuato dagli economisti della Banca Centrale Europea, capitanati da Philip Lane, che sul sito web dell&#8217;istituto di Francoforte hanno pubblicato un vero e proprio mea culpa, scusandosi per il drammatico errore di valutazione compiuto circa la sottovalutazione della natura permanente dell&#8217;inflazione, la scorsa settimana è stata infatti la volta di Janet Yellen, segretaria al Tesoro degli Stati Uniti ed ex governatrice della Federal Reserve, la quale ha dichiarato senza tanti giri di parole che sull&#8217;inflazione &#8220;mi sono sbagliata&#8221;.</p> <p>Una abiura non da poco, considerando il ruolo di prim&#8217;ordine svolto e che svolge la Yellen, dopo che la scorsa estate era stata una tra i tanti economisti e funzionari della Casa Bianca che ridimensionavano l&#8217;inflazione a semplice &#8220;piccolo rischio&#8221; per l&#8217;economia. Soltanto dopo che la crescita dei prezzi è salita ai massimi delle ultime 4 decadi, senza che vi sia alcun segnale di un suo rallentamento, ecco che anche le super colombe di Washington sono state costrette ad ammettere i loro errori di valutazione.</p> <p>A tale riguardo, il <a href="https://it.wikipedia.org/wiki/The_Washington_Post" target="_blank" rel="noopener">Washington Post</a> ha scritto che &#8220;alla fine, un po&#8217; di onestà sull&#8217;inflazione&#8221; è venuta fuori nella classe politica americana.</p> <p>Anche se questa onestà &#8220;non abbasserà magicamente i prezzi&#8221;, almeno &#8220;aiuterà a far riguadagnare un po&#8217; di credibilità alla Casa Bianca sul tema numero uno nella testa della maggior parte dei cittadini&#8221;.</p> <h2>Ecco cosa ha scritto il prestigioso quotidiano della capitale.</h2> <p>Negli scorsi mesi, il presidente Joe Biden aveva tentato di sostenere strenuamente la linea della Jellen, circa la natura temporanea dell&#8217;inflazione, arrivando apertamente ad accusare il mercato privato e le &#8220;avide multinazionali&#8221; di essere la causa del fenomeno.</p> <p>Una accusa pesante, per una paese che riconosce da sempre i vantaggi del libero mercato, pur con tutte le inefficienze e le diseguaglianze che esso comporta. Ora, anche per il presidente Biden l&#8217;inflazione è diventata la &#8220;top priority&#8221; da affrontare, anche grazie ad una Federal Reserve che sembra aver avviato un suo whatever it takes per riportare il livello dei prezzi verso l&#8217;obiettivo del 2,0%.</p> <h2>Una abiura non da poco, considerando il ruolo di prim&#8217;ordine svolto e che svolge la Yellen</h2> <p>Un processo di normalizzazione, questo, che non sarà indolore ma che causerà, come già sta causando, un forte crollo dei mercati azionari &#8211; conseguenza della bolla speculativa alimentata da anni di politiche monetarie ultra espansive &#8211; un rallentamento significativo dell&#8217;economia, una possibile recessione, un forte ridimensionamento del settore immobiliare e un possibile aumento della disoccupazione.</p> <p>Avverrà una operazione verità anche nell&#8217;eurozona, analogamente a quella che sta avvenendo negli USA? Avremo anche in Europa un riconoscimento di quanto l&#8217;inflazione rischia di essere un fenomeno dannoso per l&#8217;economia e la società, se non la si affronterà in maniera seria e decisa come hanno deciso di fare Federal Reserve e amministrazione Biden?</p> <p>Difficile dirlo.</p> <p>L&#8217;impressione è ancora quella di un contesto in cui i decisori hanno sì subito il duro colpo della realtà sull&#8217;aumento dei prezzi ma che ancora sembrano incapaci di ammettere che le soluzioni per risolvere il problema dell&#8217;inflazione dovranno essere drastiche e immediate. Il tempo, nel policy making, è una variabile decisiva.</p> <p><strong>Lettura consigliata</strong></p> <p><a href="https://www.proiezionidiborsa.it/guerra-in-ucraina-la-resilienza-del-rublo-impone-riflessioni-sullefficacia-delle-sanzioni/">Guerra in Ucraina: la resilienza del rublo impone riflessioni sull’efficacia delle sanzioni</a></p>
+</description>
+</item>
+<item>
+<title>
+Piazza Affari ancora sotto pressione e da più parti gli analisti avvertono dei pericoli all’orizzonte
+</title>
+<link>
+https://www.proiezionidiborsa.it/piazza-affari-ancora-sotto-pressione-e-da-piu-parti-gli-analisti-avvertono-dei-pericoli-allorizzonte/
+</link>
+<dc:creator>Rossana Prezioso</dc:creator>
+<pubDate>Fri, 03 Jun 2022 15:19:46 +0000</pubDate>
+<category>Economia e Mercati</category>
+<category>inflazione</category>
+<guid isPermaLink="false">https://www.proiezionidiborsa.it/?p=303215</guid>
+<description>
+La fine della settimana si sta rivelando piuttosto difficile per i mercati azionari internazionali. Unica certezza è la presenza, all&#8217;orizzonte, di potenziali problematiche dall&#8217;esito incerto. In tutto questo alle 12,...
+</description>
+<description>
+<p>La fine della settimana si sta rivelando piuttosto difficile per i mercati azionari internazionali. Unica certezza è la presenza, all&#8217;orizzonte, di potenziali problematiche dall&#8217;esito incerto. In tutto questo alle 12, il Ftse Mib <a href="https://it.tradingview.com/chart/?symbol=TVC%3AFTMIB" target="_blank" rel="noopener">registra</a> un passivo dello 0,3% circa, passivo che poi, con l&#8217;andare delle ore, si trasforma in un più pesante -1,25%. Infatti nello stesso momento solo il Ftse 100 di Londra arriva a perdere circa l’1%. Il resto dei mercati, come ad esempio il Dax, appaiono in verde. In Germania, infatti, si ha un 36% di vantaggio mentre il Cac 40 di Parigi suggerisce un +0,2%.</p> <p>Il problema degli operatori, in effetti, sembra essere quello del prossimo futuro. Con Piazza Affari ancora sotto pressione in molti si chiedono a cosa si assisterà nei prossimi mesi. Nei giorni scorsi da JP Morgan era arrivato un<a href="https://www.proiezionidiborsa.it/ad-inizio-giugno-le-borse-non-abbandonano-la-cautela-e-gli-analisti-continuano-a-guardarsi-intorno/"> allarme su possibili turbolenze economiche</a>. In realtà più che turbolenze, il numero uno della banca d’affari non aveva esitato a parlare di uragano finanziario.</p> <p>Dopo di lui è arrivata anche la previsione, nemmeno troppo entusiastica, del presidente di Goldman Sachs secondo cui ci sono in arrivo tempi difficili. Per John Waldrom, numero uno di Goldman, infatti, sarà il caso di stare molto attenti a tre fattori che, incrociandosi, potrebbero dar vita al peggiore shock visto sui mercati. In particolare questi tre elementi dovrebbero essere l’inflazione, la guerra in Ucraina e il cambio di rotta delle Banche centrali. In tutti e tre i casi, infatti si avrà a che fare con fattori le cui conseguenze saranno molto forti.</p> <h2>Piazza Affari ancora sotto pressione e da più parti gli analisti avvertono dei pericoli all’orizzonte</h2> <p>Per quanto riguarda l’inflazione, resta sempre, ormai da mesi, un osservato speciale. In Italia, infatti, nel risultato di maggio ha sfiorato il 7% fermandosi al 6,9%. Si tratta del risultato più alto dal 1986. Guardando la realtà quotidiana già in questi giorni è possibile intravedere le prime conseguenze concrete dell’inflazione già nel carrello della spesa. In particolare con il rialzo della benzina che, inevitabilmente, fa registrare i primi rialzi sui generi alimentari.</p> <p>A queste voci si aggiunge anche quella di Elon Musk. L’imprenditore ha parlato di “sensazioni molto negative” sul futuro dell’economia. La prima risposta a questo potrebbe essere un drastico ridimensionamento della forza lavoro in Tesla.</p> <p><strong>Approfondimento</strong></p> <p><a href="https://www.proiezionidiborsa.it/category/il-punto-sui-mercati/">Il punto sui mercati</a></p>
+</description>
+</item>
+<item>
+<title>
+Un uragano starebbe per abbattersi sulle Borse, ma oggi i mercati hanno preferito ignorare questa negativa profezia
+</title>
+<link>
+https://www.proiezionidiborsa.it/un-uragano-starebbe-per-abbattersi-sulle-borse-ma-oggi-i-mercati-hanno-preferito-ignorare-questa-negativa-profezia/
+</link>
+<dc:creator>Lorenzo Masini</dc:creator>
+<pubDate>Thu, 02 Jun 2022 17:57:01 +0000</pubDate>
+<category>Economia e Mercati</category>
+<category>In Evidenza</category>
+<category>Borsa</category>
+<category>Mercati</category>
+<guid isPermaLink="false">https://www.proiezionidiborsa.it/?p=302965</guid>
+<description>
+Oggi in Italia si festeggiava il 2 giugno, la festa della Repubblica. Banche e società finanziarie sono rimaste, perciò, chiuse ma la Borsa Milano era aperta. Piazza Affari, nonostante il...
+</description>
+<description>
+<p>Oggi in Italia si festeggiava il 2 giugno, la festa della Repubblica. Banche e società finanziarie sono rimaste, perciò, chiuse ma la Borsa Milano era aperta. Piazza Affari, nonostante il forte calo del controvalore degli scambi in Borsa, ha chiuso in positivo, in scia alle Piazze europee.</p> <p>Le Borse del Vecchio Continente hanno reagito con grinta alle due precedenti sedute consecutive al ribasso. Gli operatori non si sono fatti condizionare dalle dichiarazioni pessimistiche di 2 importanti esponenti del mondo finanziario. Invece, i mercati hanno preferito concentrarsi su un’indiscrezione che potrebbe spingere le Borse in recupero nelle prossime sedute.</p> <h2>Un uragano starebbe per abbattersi sulle Borse, ma oggi i mercati hanno preferito ignorare questa possibile sciagura</h2> <p>Ormai da diversi giorni inflazione e crescita economica sono le due preoccupazioni principali di chi opera in Borsa. Un&#8217;impennata dell&#8217;inflazione sia negli Stati Uniti che in Europa ha portato le banche centrali ad attuare strategie aggressive di politica monetaria. Il timore degli operatori è che queste politiche monetarie possano rallentare la ripresa economica e portare una nuova recessione dopo quella causata dalla pandemia.</p> <p>Timori di cui si è fatto portavoce l’amministratore delegato di JP Morgan Jamie Dimon. Secondo Dimon i mercati si devono preparare al peggio perché un uragano starebbe per colpire le economie di USA ed Europa e quindi travolgere anche le Borse. La guerra tra Russia e Ucraina e la FED, sarebbero le cause di questo sciagurato scenario. Dunque, un uragano starebbe per abbattersi sulle Borse</p> <p>Sull&#8217;altra sponda dell&#8217;Oceano, in Europa, il presidente della Banca di Francia, che è nel consiglio direttivo della BCE, ha lanciato un allarme. Villeroy ha avvertito i mercati che in Europa l&#8217;inflazione è troppo alta e diffusa. Per questo consiglia indirettamente un intervento deciso della Banca centrale europea. Queste dichiarazioni alimentano i dubbi che la BCE a luglio e a settembre non si limiti ad aumenti dello 0,25% del costo del denaro. Inoltre il presidente della Banca di Francia ha dichiarato che il PIL europeo per i prossimi due anni crescerà a un ritmo più ridotto.</p> <h2>Un’indiscrezione potrebbe far tirare un sospiro di sollievo ai risparmiatori</h2> <p>Per fortuna i mercati, specialmente in Europa, hanno preferito, almeno per oggi, non dare peso a queste dichiarazioni. Invece potrebbero aver dato credito a l&#8217;indiscrezione che l&#8217;Arabia Saudita potrebbe aumentare l&#8217;offerta di petrolio per contrastare gli effetti dell&#8217;embargo del petrolio russo. L’aumentata offerta di petrolio dell&#8217;Arabia Saudita potrebbe abbassare il prezzo del greggio e quindi calmierare i prezzi alla produzione e di conseguenza l&#8217;inflazione. Il calo del petrolio potrebbe fare tirare un sospiro di sollievo a molti italiani.</p> <p>Alla fine della seduta i principali indici europei hanno chiuso tutti in rialzo, anche grazie all&#8217;avvio scoppiettante di Wall Street. L&#8217;Euro Stoxx 50 ha terminato la seduta in rialzo dello 0,9%. L&#8217;indice tedesco Dax ha chiuso con un guadagno dell’1% mentre la Borsa francese è salita dell’1,2%. Oggi Londra era chiusa per festeggiare i 70 anni di regno della regina Elisabetta.<br /> Anche Piazza Affari ha chiuso in rialzo anche se il guadagno è stato minore rispetto alle altre Borse europee. L&#8217;indice Ftse Mib <a href="https://it.tradingview.com/symbols/INDEX-FTSEMIB/" target="_blank" rel="noopener">INDEX:FTSEMIB</a> ha chiuso con un rialzo di quasi lo 0,6% e i prezzi hanno terminato a 24.426 punti.</p> <p>Moncler è stato il titolo migliore tra le blue chips, con un guadagno del 3%. L&#8217;azione si è avvantaggiata della fine delle restrizioni in Cina, mercato molto importante per il suo business. Intanto continua la corsa di BPER Banca. Secondo gli analisti di Exane <a href="https://www.proiezionidiborsa.it/questo-record-affossa-le-borse-europee-ma-a-piazza-affari-si-scommette-sul-balzo-del-67-di-una-banca/">l&#8217;azione ha un forte potenziale rialzista</a> e nelle prossime settimane potrebbe raggiungere un target ambizioso. Oggi l&#8217;Autorità garante della concorrenza e del mercato, ha approvato l&#8217;acquisizione di Banca Carige. Alla fine della seduta BPER ha guadagnato lo 0,8% chiudendo 1,93 euro.</p> <p><strong>Approfondimento</strong><br /> <a href="https://www.proiezionidiborsa.it/category/il-punto-sui-mercati/">Il punto sui mercati</a></p>
+</description>
+</item>
+<item>
+<title>
+In Borsa occhi puntati su Wall Street e a Piazza Affari, attenzione alle potenzialità di OVS in rampa di lancio
+</title>
+<link>
+https://www.proiezionidiborsa.it/in-borsa-occhi-puntati-su-wall-street-e-a-piazza-affari-attenzione-alle-potenzialita-di-ovs-in-rampa-di-lancio/
+</link>
+<dc:creator>Lorenzo Masini</dc:creator>
+<pubDate>Thu, 02 Jun 2022 08:00:20 +0000</pubDate>
+<category>Economia e Mercati</category>
+<category>Borsa</category>
+<category>Mercati</category>
+<guid isPermaLink="false">https://www.proiezionidiborsa.it/?p=302927</guid>
+<description>
+Le Borse europee continuano a soffrire il dato sull&#8217;inflazione che ha gelato i mercati. Anche ieri, le Piazze azionarie del Vecchio Continente hanno accusato una flessione dopo la pesante seduta...
+</description>
+<description>
+<p>Le Borse europee continuano a soffrire il dato sull&#8217;inflazione che ha gelato i mercati. Anche ieri, le Piazze azionarie del Vecchio Continente hanno accusato una flessione dopo la pesante seduta di martedì. Il calo è stato accentuato dalla apertura negativa di Wall Street che dopo un avvio debole ha accelerato al ribasso.</p> <p>In questa fase, gli operatori finanziari sono alle prese con molti dubbi e le incertezze non agevolano gli acquisti in Borsa. Il forte balzo dell&#8217;inflazione in Europa potrebbe spingere la BCE ad aumentare a luglio i tassi di interesse di mezzo punto percentuale. Questa decisione potrebbe frenare ulteriormente la crescita economica del Vecchio Continente. Gli investitori temono questa eventualità.</p> <p>Anche le incertezze di Wall Street stanno frenando gli acquisti sulle Borse in Europa. Il mercato azionario USA, dopo alcune sedute fortemente positive, adesso sembra nuovamente rallentare. Gli investitori temono per una nuova flessione ribassista. Alcuni analisti pensano che il minimo dell&#8217;anno non sia ancora stato toccato e che gli indici principali del listino americano abbiamo ancora spazio per scendere.</p> <h2>In Borsa occhi puntati su Wall Street e a Piazza Affari, attenzione alle potenzialità di OVS in rampa di lancio</h2> <p>Ieri, Piazza Affari ha chiuso in calo dello 0,9%. L&#8217;indice Ftse Mib ha chiuso a 24.283 punti. La tenuta del supporto in area 24.200 punti è significativa. Una discesa dei prezzi sotto questo livello potrebbe riportare l&#8217;indice maggiore di Piazza Affari in area 23.700 punti. Inoltre, ieri l&#8217;indice Ftse Mib (<a href="https://it.tradingview.com/symbols/INDEX-FTSEMIB/" target="_blank" rel="noopener">INDEX:FTSEMIB</a>) ha chiuso sotto il bordo inferiore del <a href="https://www.proiezionidiborsa.it/linflazione-ue-zavorra-piazza-affari-ma-giugno-potrebbe-essere-molto-positivo-per-la-borsa-di-milano-a-queste-condizioni/">canale che contiene i prezzi dal 9 maggio</a>. Questo non è un bel segnale.</p> <p>Tra l&#8217;altro, oggi in Italia, è festa e se la Borsa è aperta, sono chiuse le banche e le società finanziarie. Quindi, è probabile che sul nostro listino ci siano volumi ridotti e questo fattore potrebbe accentuare la volatilità dei prezzi specialmente al ribasso. Oggi, un segnale positivo da Piazza Affari arriverà con una chiusura superiore ai 24.400/24.500 punti. Questo evento consentirebbe ai prezzi dell’indice di ritornare sopra il bordo inferiore del canale rialzista. Al rialzo se l&#8217;indice avrà la forza di salire oltre 24.700 punti potrebbe anche spingersi in area 25.000 punti.</p> <h2>Attenzione a questo titolo</h2> <p>In Borsa occhi puntati anche su OVS che è uno dei titoli da seguire oggi e nelle prossime sedute perché potrebbe schizzare al rialzo. Il titolo nelle ultime 5 sedute ha guadagnato oltre il 12%. Ieri l’azione ha chiuso a 1,94 euro in rialzo dell’1,5%, ma durante la seduta i prezzi sono arrivati a guadagnare anche il 6%.</p> <p>Secondo gli analisti di Banca Akros il titolo dovrebbe valere 2,4 euro ad azione. Quindi, OVS avrebbe un potenziale di rialzo di oltre il 20% rispetto alla chiusura di ieri. Il superamento dei 2,10 euro potrebbe spingere l’azione verso il target indicato dagli analisti. Invece, il ritorno dei prezzi sotto 1,9 euro potrebbe mettere fine al rimbalzo in atto da qualche seduta.</p> <p><strong>Approfondimento</strong><br /> <a href="https://www.proiezionidiborsa.it/category/il-punto-sui-mercati/">Il punto sui mercati</a></p>
+</description>
+</item>
+<item>
+<title>
+Ad inizio giugno le Borse non abbandonano la cautela e gli analisti continuano a guardarsi intorno
+</title>
+<link>
+https://www.proiezionidiborsa.it/ad-inizio-giugno-le-borse-non-abbandonano-la-cautela-e-gli-analisti-continuano-a-guardarsi-intorno/
+</link>
+<dc:creator>Rossana Prezioso</dc:creator>
+<pubDate>Wed, 01 Jun 2022 17:04:01 +0000</pubDate>
+<category>Economia e Mercati</category>
+<category>Piazza Affari</category>
+<guid isPermaLink="false">https://www.proiezionidiborsa.it/?p=302835</guid>
+<description>
+Ci si avvicina alla metà dell’anno e l’inizio del nuovo mese conferma la cautela e soprattutto l’incertezza che aleggia sui listini in questa fase. Infatti gli ultimi dati macro pubblicati...
+</description>
+<description>
+<p>Ci si avvicina alla metà dell’anno e l’inizio del nuovo mese conferma la cautela e soprattutto l’incertezza che aleggia sui listini in questa fase. Infatti gli ultimi dati macro pubblicati hanno registrato il già previsto aumento dell’inflazione, aumento che, però, è stato anche peggio del previsto. Ad ogni modo gli operatori hanno deciso di non farsi sorprendere da una serie di elementi esogeni che <a href="https://www.proiezionidiborsa.it/il-ritracciamento-odierno-dei-mercati-dovrebbe-essere-propedeutico-a-nuovi-allunghi-da-domani-in-poi/">potrebbero destabilizzare ogni eventuale entusiasmo</a>.</p> <p>Anche se, con un petrolio che viaggia verso i 120 dollari ed un mercato statunitense caratterizzato da una certa pesantezza, parlare di entusiasmi, anche solo teorici, appare per lo meno prematuro. Per quanto riguarda il petrolio, poi, è da sottolineare un ulteriore elemento di riflessione. Infatti l’OPEC potrebbe essere intenzionata a sospendere Mosca dagli accordi di produzione. Una decisione che, a differenza di quanto si possa pensare, parte dal presupposto che, tra guerre e sanzioni, la capacità della Russia di estrazione del greggio potrebbero essere decimate.</p> <h2>Ad inizio giugno le Borse non abbandonano la cautela e gli analisti continuano a guardarsi intorno</h2> <p>A questo, poi, si aggiunge anche un&#8217;inflazione che, in Italia, ad esempio, sfiora il 7% annuo. Anche per quest’ultimo motivo potrebbe essere un’estate caratterizzata da un&#8217;attenzione in più per le politiche economiche delle Banche centrali. Infatti, a cominciare dalla BCE, si vedranno, con ogni probabilità, una serie di provvedimenti sul fronte dei tassi di interesse. In tutto questo a Piazza Affari <a href="https://it.tradingview.com/chart/?symbol=TVC%3AFTMIB" target="_blank" rel="noopener">il finale</a> ha visto un passivo dello 0,9%. Dunque, ad inizio giugno le Borse non abbandonano la cautela, tanto da registrare, in Europa, una chiusura generalmente negativa. Intanto, dall’altra parte dell’oceano, Wall Street vede ancora al centro dell’attenzione elementi contingenti.</p> <p>Infatti sotto osservazione ci sono alcune considerazioni. In primis quelle del numero uno di JP Morgan, James Dimon, che parla di un uragano finanziario in arrivo. Alla base di queste analisi ci sarebbero una serie di fattori. Non ultimo anche la politica della Federal Reserve incentrata sull’aumento dei tassi di interesse. Un aumento che, paradossalmente, potrebbe rivelarsi più aspro del previsto proprio per via di dati macro generalmente non negativi che fornirebbero alla FED una sorta di alibi per agire in maniera decisa. Non solo, ma sempre secondo le previsioni dell’a.d, all’orizzonte non sarebbe da escludere un petrolio a 175 dollari al barile. Guardando le singole storie sulla piazza di scambio statunitense è degno di nota il Market Outperform dato da JMP Securities sul titolo Amazon.com Inc che, però, ha visto il target price ridotto a 3.450 dollari rispetto ai precedenti 3.600.</p> <p><strong>Approfondimento</strong></p> <p><a href="https://www.proiezionidiborsa.it/category/il-punto-sui-mercati/">Il punto sui mercati</a></p>
+</description>
+</item>
+<item>
+<title>
+In arrivo sui mercati la lettura dell’inflazione di maggio nell’area euro e in attesa di questo Rapporto USA il 3 giugno
+</title>
+<link>
+https://www.proiezionidiborsa.it/in-arrivo-sui-mercati-la-lettura-dellinflazione-di-maggio-nellarea-euro-e-in-attesa-di-questo-rapporto-usa-il-3-giugno/
+</link>
+<dc:creator>Stefano Vozza</dc:creator>
+<pubDate>Sun, 29 May 2022 14:00:18 +0000</pubDate>
+<category>Economia e Mercati</category>
+<category>In Evidenza</category>
+<category>Borsa</category>
+<category>market movers</category>
+<guid isPermaLink="false">https://www.proiezionidiborsa.it/?p=301937</guid>
+<description>
+Nell’ottava appena chiusa i mercati hanno recuperato terreno e il bilancio è stato positivo se rapportato allo scorso venerdì. La nuova settimana di Borsa, invece, inizierà con i dati sul...
+</description>
+<description>
+<p>Nell’ottava appena chiusa i mercati hanno recuperato terreno e il bilancio è stato positivo se rapportato allo scorso venerdì. La nuova settimana di Borsa, invece, inizierà con i dati sul settore manifatturiero cinese (e venerdì negli USA) e quelli sul carovita europeo. Inoltre, nel corso dell’ottava avremo alcuni listini (quello USA, quello inglese e cinese) chiusi alcuni giorni per festività. Procediamo con ordine, dunque, anticipando solo che sono in arrivo sui mercati la lettura dell’inflazione di maggio nell’area euro.</p> <h2>Lunedì 30 maggio</h2> <p>Orfani della Borsa americana chiusa per festività (Giornata della Memoria), i mercati europei vivranno dei market movers UE. I dati chiave sono quelli che riguardano il carovita. Alle 9.00 arriverà l’indice IPC, IPP e l’indice IAPC spagnolo. Alle 10.30 l’indice di fiducia delle imprese e dei consumatori portoghesi. Mezz’ora dopo saranno di scena i dati dell’Eurozona: aspettative di inflazione dei consumatori, sentimento del settore industriale e dei servizi, IPC di maggio.</p> <p>Infine si segnalano i dati sull’inflazione tedesca alle 14.00 (indici IPC e IAPC di maggio) e l’indice IPP italiano (annuale e mensile, aprile) alle 18.23.</p> <h2>La chiusura del mese di maggio</h2> <p>Dalla Cina arriverà (H 3.30) l’indice PMI non manifatturiero, l’indice PMI composito, l’indice dei direttori degli acquisti del settore manifatturiero. Alle 8.45 sfilza di dati francesi sul carovita (indici IPC, IPP e IAPC), le spese dei consumatori e il PIL aggiornato. Quest’ultimo dato arriverà anche dalla Svizzera alle 9.00, dall’Italia alle 10.00, dal Portogallo alle 12.00 e dal Canada alle 14.30.</p> <p>Alle 9.55 avremo i dati sulla disoccupazione tedesca, mezz’ora dopo quelli sull’inflazione portoghese e, alle 11.00, quella italiana: indici IPC e IAPC annuale e mensile, maggio. Sempre alle 11.00 giungerà il dato sull’indice IPC dell’Eurozona. Le <a href="https://www.proiezionidiborsa.it/ecco-quanto-rendono-5-000-euro-sul-bot-a-6-mesi-rispetto-allofferta-supersmart-presso-poste-italiane/">aste dei BTP italiani (scadenze a 5, 10 e 15 anni)</a> sono attese per le 11.10. Negli USA si segnala alle 15.45 l’indice dei direttori degli acquisti di Chicago (maggio) e soprattutto il rapporto sulla fiducia dei consumatori (16.00).</p> <h2>In arrivo sui mercati la lettura dell’inflazione di maggio nell’area euro e in attesa di questo Rapporto USA il 3 giugno</h2> <p>In Asia i mercati indonesiani resteranno chiusi per festività, mentre dall’Australia arriveranno i dati sul <a href="https://it.wikipedia.org/wiki/Prodotto_interno_lordo" target="_blank" rel="noopener">PIL</a> e dalla Cina l’indice manifatturiero PMI (maggio).</p> <p>Si segnalano, in Europa, le vendite al dettaglio in Germania (H 8.00). Poi arriveranno gli indici dei direttori degli acquisti del settore manifatturiero in mezza Europa (Italia, Francia, Spagna, Germania, Eurozona, Regno Unito). Poi segnaliamo il dato sul tasso di disoccupazione in Italia (10.00) e a livello Eurozona (H 11.00). Infine alle 13.00 ci sarà il discorso della Presidente BCE, Christine Lagarde.</p> <h2>Giovedì 2 giugno</h2> <p>Giovedì e venerdì la piazza londinese sarà chiusa per la Spring Holiday Bank. Poi si segnalano i dati sull’inflazione di maggio in Svizzera e gli indici IPP (aprile) e dei prezzi alla produzione (aprile) dell’Eurozona. Negli USA occhio ai dati sulla disoccupazione e alle richieste iniziali dei sussidi di disoccupazione (tutto alle 14.30).</p> <h2>La chiusura di ottava</h2> <p>Con i mercati cinesi chiusi per festività, i primi dati chiave arriveranno alle 8.00 da Berlino (esportazioni e saldo della bilancia commerciale). In mattinata arriverà indice dei direttori degli acquisti del settore terziario da Roma, Parigi, Madrid, Berlino, dall’Eurozona (alle 15.45 anche dagli States). Alle 9.45 si segnala l’indice PMI Composite in Italia (maggio), alle 9.50 a Parigi e alle 9.55 a Berlino, alle 15.45 negli USA (sempre maggio). Sempre negli USA, infine, occhio al rapporto mensile sul mercato del lavoro degli States.</p> <p><strong>Approfondimento</strong></p> <p><a href="https://www.proiezionidiborsa.it/il-ribasso-dei-mercati-potrebbe-essere-davvero-finito-ma-ecco-quali-sono-i-pericoli/">Il ribasso dei mercati potrebbe essere davvero finito, ma ecco quali sono i pericoli</a></p>
+</description>
+</item>
+</channel>
 </rss>
