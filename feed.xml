@@ -1,23 +1,24 @@
-<?xml version="1.0" encoding="utf-8" ?>
 <rss version="2.0">
-	<channel>
-		<title>TOP_TITLE</title>
-		<link>https://www.LINK.es</link>
-		<description>TOP_DESCR</description>
-		<language>en-US</language>
-		<item>
-			<guid>1</guid>
-			<title>TITLE</title>
-			<description>
-				<p><a href="http://mp.weixin.qq.com/s?biz=MQ&amp;mid=265&amp;idx=1&amp;sn=b5&amp;chksm=f0&amp;">Text</a></p>
-				<p><a href="https://example.com/path/to/page?name=ferret&color=purple&weight=normal"</p>
-				<p><a href="https://www.unsafe.com/a<b>c{d}e[f ]\g^">Text</a></p>
-				<p><a href="https://www.unsafe.com/a%3Cb%3Ec%7Bd%7De%5Bf%20%5D%5Cg%5E">Text</a></p>
-				<p><a href="https://it.site.com/place/?symbol=TVC:FTMIB&abc=ABC:DEF">Text</a></p>
-			</description>
-			<category domain="tradingview:symbol">CIEA</category>
-			<link>https://link.com</link>
-			<pubDate>Tue, 21 Jun 2022 11:29:00 +0000</pubDate>
-		</item>
-	</channel>
+<channel>
+<title>BER_TOP_TITLE</title>
+<language>en</language>
+<lastBuildDate>Tue, 21 Jun 2022 14:33:23 +0100</lastBuildDate>
+<item>
+<title>BER_TITLE</title>
+<description>
+	<p><a href="http://mp.weixin.qq.com/s?biz=MQ&amp;mid=265&amp;idx=1&amp;sn=b5&amp;chksm=f0&amp;">Text</a></p>
+	<p><a href="https://example.com/path/to/page?name=ferret&color=purple&weight=normal"</p>
+	<p><a href="https://www.unsafe.com/a<b>c{d}e[f ]\g^">Text</a></p>
+	<p><a href="https://www.unsafe.com/a%3Cb%3Ec%7Bd%7De%5Bf%20%5D%5Cg%5E">Text</a></p>
+	<p><a href="https://it.site.com/place/?symbol=TVC:FTMIB&abc=ABC:DEF">Text</a></p>
+</description>
+<pubDate>Tue, 21 Jun 2022 14:33:23 +0100</pubDate>
+<link>
+https://www.cryptoglobe.com/latest/2022/06/cardano-ledger-starts-letting-ada-investors-buy-send-and-receive-directly-on-ledger-live/
+</link>
+<guid>
+https://www.cryptoglobe.com/latest/2022/06/cardano-ledger-starts-letting-ada-investors-buy-send-and-receive-directly-on-ledger-live/
+</guid>
+</item>
+</channel>
 </rss>
