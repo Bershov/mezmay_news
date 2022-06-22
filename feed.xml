@@ -6,9 +6,9 @@
 <item>
 <title>BER_TITLE</title>
 <description>
-	<p><a href="http://mp.weixin.qq.com/s?biz=MQ&amp;mid=265&amp;idx=1&amp;sn=b5&amp;chksm=f0&amp;">Text</a></p>
-	<p><a href="https://example.com/path/to/page?name=ferret&color=purple&weight=normal">Text</a></p>
-	<p><a href="https://www.unsafe.com/a<b>c{d}e[f ]\g^">Text</a></p>
+	<p><a href="http://mp.weixin.qq.com/s?biz=MQ&amp;mid=265&amp;idx=1&amp;sn=b5&amp;chksm=f0&amp;">Text A & B</a></p>
+	<p><a href="https://example.com/path/to/page?name=ferret&color=purple&weight=normal">Text A &amp; B</a></p>
+	<p><a href="https://www.unsafe.com/a-b-c{d}e[f ]\g^">Text</a></p>
 	<p><a href="https://www.unsafe.com/a%3Cb%3Ec%7Bd%7De%5Bf%20%5D%5Cg%5E">Text</a></p>
 	<p><a href="https://it.site.com/place/?symbol=TVC:FTMIB&abc=ABC:DEF">Text</a></p>
 </description>
