@@ -4,22 +4,21 @@
 <language>en</language>
 <lastBuildDate>Tue, 21 Jun 2022 14:33:23 +0100</lastBuildDate>
 <item>
-<title>BER_TITLE</title>
-<description>
-	<p><a href="https://www.site.com/path">Text</a></p>
-	https://withouttag.com
-	<p><a href="https://example.com/path/to/page?name=ferret&color=purple&weight=normal">Text A &amp; B</a></p>
-	<p><a href="https://www.unsafe.com/a-b-c{d}e[f ]\g^">Text</a></p>
-	<p><a href="https://www.unsafe.com/a%3Cb%3Ec%7Bd%7De%5Bf%20%5D%5Cg%5E">Text</a></p>
-	<p><a href="https://it.site.com/place/?symbol=TVC:FTMIB&abc=ABC:DEF">Text</a></p>
-</description>
-<pubDate>Tue, 21 Jun 2022 14:33:23 +0100</pubDate>
-<link>
-https://www.cryptoglobe.com/latest/2022/06/cardano-ledger-starts-letting-ada-investors-buy-send-and-receive-directly-on-ledger-live/
-</link>
-<guid>
-https://www.cryptoglobe.com/latest/2022/06/cardano-ledger-starts-letting-ada-investors-buy-send-and-receive-directly-on-ledger-live/
-</guid>
+    <title>BER_TITLE</title>
+	<description>
+	    <p><a href="http://www.site.com/path/to/place/">Text</a></p>
+	    https://withouttag.com
+	    <p><a href="https://escaped.net/s?aa=bb&amp;cc=25&amp;idx=1&amp;scene=21#wechat_redirect"></a></p>
+	    <p><a href="https://www.unsafe.com/ac{d}e[f ]\g|h^i,j"></a></p>
+	    <p><a href="https://ru.wikipedia.org/wiki/История_Интернета#СССР-США"></a></p>
+	</description>
+    <pubDate>Tue, 21 Jun 2022 14:33:23 +0100</pubDate>
+    <link>
+        https://www.cryptoglobe.com/latest/2022/06/cardano-ledger-starts-letting-ada-investors-buy-send-and-receive-directly-on-ledger-live/
+    </link>
+    <guid>
+        https://www.cryptoglobe.com/latest/2022/06/cardano-ledger-starts-letting-ada-investors-buy-send-and-receive-directly-on-ledger-live/
+    </guid>
 </item>
 </channel>
 </rss>
